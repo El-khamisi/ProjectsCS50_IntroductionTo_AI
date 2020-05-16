@@ -5,7 +5,7 @@ Tic Tac Toe Player
 import math
 import copy
  
-mix=(0,0)
+
 X = "X"
 O = "O"
 EMPTY = None
